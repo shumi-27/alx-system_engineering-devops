@@ -10,4 +10,5 @@ Script name and function:
 8-firstdelete- Deletes file named betty from /tmp/my_first_directory
 9-firstdirdeletion - Deletes directory /tmp/my_first_directory
 10-back - Change working directory to previous one
-11-lists - List files in order working directory, parent directory and /boot 
+11-lists - List files in order working directory, parent directory and /boot
+12-file_type - Prints file type 
