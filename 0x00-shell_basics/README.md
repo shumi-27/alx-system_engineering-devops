@@ -5,4 +5,5 @@ Script name and function:
 3-listfiles: Lists files in a long format
 4-listmorefiles: Lists directory contents including hidden files in long format
 5-listfilesdigitonly- Lists files in long format iwith user&group ID displayed numerically
-6-firstdirectory - Creates directory in /tmp/ 
+6-firstdirectory - Creates directory in /tmp
+7-movethatfile- moves a file from /tmp to /tmp/my_first_directory 
