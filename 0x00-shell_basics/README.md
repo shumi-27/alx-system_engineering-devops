@@ -9,4 +9,5 @@ Script name and function:
 7-movethatfile- moves a file named betty from /tmp to /tmp/my_first_directory
 8-firstdelete- Deletes file named betty from /tmp/my_first_directory
 9-firstdirdeletion - Deletes directory /tmp/my_first_directory
-10-back - Change working directory to previous one 
+10-back - Change working directory to previous one
+11-lists - List files in order working directory, parent directory and /boot 
