@@ -7,4 +7,5 @@ Script name and function:
 5-listfilesdigitonly- Lists files in long format iwith user&group ID displayed numerically
 6-firstdirectory - Creates directory in /tmp
 7-movethatfile- moves a file named betty from /tmp to /tmp/my_first_directory
-8-firstdelete- Deletes file named betty from /tmp/my_first_directory 
+8-firstdelete- Deletes file named betty from /tmp/my_first_directory
+9-firstdirdeletion - Deletes directory /tmp/my_first_directory 
