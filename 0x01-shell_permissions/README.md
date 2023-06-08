@@ -7,3 +7,4 @@ Script name and function
 5-execute : Adds exeecute permission to the owner of file hello
 6-multiple_permission : Adds multiple permissions to file
 7-everybody : Adds execution permission to all users
+8-James_bond : Takes away all group and user permissions and gives other users all permissions
