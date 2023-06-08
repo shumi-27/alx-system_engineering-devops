@@ -12,3 +12,5 @@ Script name and function
 10-mirror_permissions: Makes file hello permissions to the same as file olleh
 11-directories_permissions : Give execution permission to current working directory's subdirectories
 12-directory_permissions : Creates a directory with mode set to 751
+13-change_group : Changes group owner to school for file hello
+
