@@ -15,4 +15,5 @@ Script name and function
 13-change_group : Changes group owner to school for file hello
 100-change_owner_and_group : Change files owner to vincent and group to staff
 101-symbolic_link_permissions : Change symblic link owner to vincent and group to staff
+102-if_only :Change owner of betty if only user matches guillaume
 
