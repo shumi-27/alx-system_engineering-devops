@@ -14,3 +14,5 @@ Script name and function
 12-directory_permissions : Creates a directory with mode set to 751
 13-change_group : Changes group owner to school for file hello
 100-change_owner_and_group : Change files owner to vincent and group to staff
+101-symbolic_link_permissions : Change symblic link owner to vincent and group to staff
+
