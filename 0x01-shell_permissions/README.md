@@ -3,3 +3,4 @@ Script name and function
 1-who_am_i :Prints the effective username
 2-groups : Prints all the groups the current user is part of
 3-new_owner : Changes the owner of file hell to user betty
+4-empty : Creates empty file named hello
