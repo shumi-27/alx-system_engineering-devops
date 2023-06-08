@@ -6,3 +6,4 @@ Script name and function
 4-empty : Creates empty file named hello
 5-execute : Adds exeecute permission to the owner of file hello
 6-multiple_permission : Adds multiple permissions to file
+7-everybody : Adds execution permission to all users
