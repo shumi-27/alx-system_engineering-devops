@@ -9,3 +9,4 @@ Script name and function
 7-everybody : Adds execution permission to all users
 8-James_bond : Takes away all group and user permissions and gives other users all permissions
 9-John_Doe : Set file mode bit to 753
+10-mirror_permissions: Makes file hello permissions to the same as file olleh
