@@ -11,3 +11,4 @@ Script name and function
 9-John_Doe : Set file mode bit to 753
 10-mirror_permissions: Makes file hello permissions to the same as file olleh
 11-directories_permissions : Give execution permission to current working directory's subdirectories
+12-directory_permissions : Creates a directory with mode set to 751
