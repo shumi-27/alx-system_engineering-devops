@@ -8,3 +8,4 @@ Script name and function
 6-multiple_permission : Adds multiple permissions to file
 7-everybody : Adds execution permission to all users
 8-James_bond : Takes away all group and user permissions and gives other users all permissions
+9-John_Doe : Set file mode bit to 753
