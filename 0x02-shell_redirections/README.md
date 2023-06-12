@@ -4,3 +4,4 @@ Script and function
 2-hellofile : Prints contents of /etc/passwd
 3-twofiles : Prints contents of two files
 4-lastlines : Prints last ten lines of a file
+5-firstlines : Prints first 10 lines of a file
